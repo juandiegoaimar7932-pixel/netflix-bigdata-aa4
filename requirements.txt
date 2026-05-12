@@ -1,0 +1,20 @@
+# PySpark compatible con Kafka connector 3.5.1
+pyspark==3.5.1
+
+# Pandas
+pandas>=2.0.0
+
+# NumPy
+numpy>=1.26.0
+
+# Faker
+faker>=37.0.0
+
+# Matplotlib
+matplotlib>=3.9.0
+
+# PyArrow compatible
+pyarrow>=15.0.0
+
+# Kafka producer
+confluent-kafka>=2.8.0
