@@ -1,0 +1,2702 @@
+[
+    {
+        "movie_id":"M00001",
+        "title":"Movie 1",
+        "genre":"Fantasy",
+        "release_year":2018,
+        "duration_minutes":174,
+        "rating":3.0,
+        "views":281364
+    },
+    {
+        "movie_id":"M00002",
+        "title":"Movie 2",
+        "genre":"Comedy",
+        "release_year":1996,
+        "duration_minutes":148,
+        "rating":3.3,
+        "views":78513
+    },
+    {
+        "movie_id":"M00003",
+        "title":"Movie 3",
+        "genre":"Drama",
+        "release_year":2011,
+        "duration_minutes":162,
+        "rating":4.1,
+        "views":37377
+    },
+    {
+        "movie_id":"M00004",
+        "title":"Movie 4",
+        "genre":"Sci-Fi",
+        "release_year":2012,
+        "duration_minutes":92,
+        "rating":3.5,
+        "views":407910
+    },
+    {
+        "movie_id":"M00005",
+        "title":"Movie 5",
+        "genre":"Sci-Fi",
+        "release_year":2012,
+        "duration_minutes":96,
+        "rating":4.7,
+        "views":232332
+    },
+    {
+        "movie_id":"M00006",
+        "title":"Movie 6",
+        "genre":"Sci-Fi",
+        "release_year":1995,
+        "duration_minutes":102,
+        "rating":2.6,
+        "views":87978
+    },
+    {
+        "movie_id":"M00007",
+        "title":"Movie 7",
+        "genre":"Thriller",
+        "release_year":2007,
+        "duration_minutes":139,
+        "rating":4.6,
+        "views":379896
+    },
+    {
+        "movie_id":"M00008",
+        "title":"Movie 8",
+        "genre":"Fantasy",
+        "release_year":1993,
+        "duration_minutes":165,
+        "rating":4.7,
+        "views":63178
+    },
+    {
+        "movie_id":"M00009",
+        "title":"Movie 9",
+        "genre":"Romance",
+        "release_year":2013,
+        "duration_minutes":174,
+        "rating":3.1,
+        "views":226689
+    },
+    {
+        "movie_id":"M00010",
+        "title":"Movie 10",
+        "genre":"Horror",
+        "release_year":1990,
+        "duration_minutes":86,
+        "rating":4.9,
+        "views":316326
+    },
+    {
+        "movie_id":"M00011",
+        "title":"Movie 11",
+        "genre":"Sci-Fi",
+        "release_year":2003,
+        "duration_minutes":108,
+        "rating":4.0,
+        "views":99895
+    },
+    {
+        "movie_id":"M00012",
+        "title":"Movie 12",
+        "genre":"Romance",
+        "release_year":2021,
+        "duration_minutes":123,
+        "rating":4.9,
+        "views":30502
+    },
+    {
+        "movie_id":"M00013",
+        "title":"Movie 13",
+        "genre":"Sci-Fi",
+        "release_year":2000,
+        "duration_minutes":103,
+        "rating":4.9,
+        "views":3678
+    },
+    {
+        "movie_id":"M00014",
+        "title":"Movie 14",
+        "genre":"Romance",
+        "release_year":2014,
+        "duration_minutes":111,
+        "rating":2.6,
+        "views":346944
+    },
+    {
+        "movie_id":"M00015",
+        "title":"Movie 15",
+        "genre":"Action",
+        "release_year":2012,
+        "duration_minutes":170,
+        "rating":3.8,
+        "views":359504
+    },
+    {
+        "movie_id":"M00016",
+        "title":"Movie 16",
+        "genre":"Comedy",
+        "release_year":1999,
+        "duration_minutes":172,
+        "rating":4.7,
+        "views":328938
+    },
+    {
+        "movie_id":"M00017",
+        "title":"Movie 17",
+        "genre":"Animation",
+        "release_year":2000,
+        "duration_minutes":157,
+        "rating":2.9,
+        "views":403568
+    },
+    {
+        "movie_id":"M00018",
+        "title":"Movie 18",
+        "genre":"Horror",
+        "release_year":1999,
+        "duration_minutes":140,
+        "rating":2.9,
+        "views":242922
+    },
+    {
+        "movie_id":"M00019",
+        "title":"Movie 19",
+        "genre":"Documentary",
+        "release_year":1992,
+        "duration_minutes":120,
+        "rating":4.8,
+        "views":1734
+    },
+    {
+        "movie_id":"M00020",
+        "title":"Movie 20",
+        "genre":"Sci-Fi",
+        "release_year":2024,
+        "duration_minutes":128,
+        "rating":2.9,
+        "views":378254
+    },
+    {
+        "movie_id":"M00021",
+        "title":"Movie 21",
+        "genre":"Animation",
+        "release_year":1994,
+        "duration_minutes":161,
+        "rating":3.9,
+        "views":345747
+    },
+    {
+        "movie_id":"M00022",
+        "title":"Movie 22",
+        "genre":"Animation",
+        "release_year":1991,
+        "duration_minutes":146,
+        "rating":4.8,
+        "views":318824
+    },
+    {
+        "movie_id":"M00023",
+        "title":"Movie 23",
+        "genre":"Thriller",
+        "release_year":2006,
+        "duration_minutes":121,
+        "rating":3.8,
+        "views":494186
+    },
+    {
+        "movie_id":"M00024",
+        "title":"Movie 24",
+        "genre":"Romance",
+        "release_year":2014,
+        "duration_minutes":100,
+        "rating":4.4,
+        "views":60254
+    },
+    {
+        "movie_id":"M00025",
+        "title":"Movie 25",
+        "genre":"Comedy",
+        "release_year":1996,
+        "duration_minutes":136,
+        "rating":4.8,
+        "views":204020
+    },
+    {
+        "movie_id":"M00026",
+        "title":"Movie 26",
+        "genre":"Romance",
+        "release_year":2019,
+        "duration_minutes":110,
+        "rating":4.4,
+        "views":1832
+    },
+    {
+        "movie_id":"M00027",
+        "title":"Movie 27",
+        "genre":"Action",
+        "release_year":2023,
+        "duration_minutes":142,
+        "rating":4.8,
+        "views":7509
+    },
+    {
+        "movie_id":"M00028",
+        "title":"Movie 28",
+        "genre":"Horror",
+        "release_year":2012,
+        "duration_minutes":100,
+        "rating":3.6,
+        "views":433660
+    },
+    {
+        "movie_id":"M00029",
+        "title":"Movie 29",
+        "genre":"Sci-Fi",
+        "release_year":2017,
+        "duration_minutes":174,
+        "rating":4.1,
+        "views":468766
+    },
+    {
+        "movie_id":"M00030",
+        "title":"Movie 30",
+        "genre":"Romance",
+        "release_year":1995,
+        "duration_minutes":150,
+        "rating":2.7,
+        "views":359177
+    },
+    {
+        "movie_id":"M00031",
+        "title":"Movie 31",
+        "genre":"Action",
+        "release_year":2004,
+        "duration_minutes":138,
+        "rating":4.7,
+        "views":242875
+    },
+    {
+        "movie_id":"M00032",
+        "title":"Movie 32",
+        "genre":"Documentary",
+        "release_year":2021,
+        "duration_minutes":170,
+        "rating":5.0,
+        "views":248886
+    },
+    {
+        "movie_id":"M00033",
+        "title":"Movie 33",
+        "genre":"Documentary",
+        "release_year":2017,
+        "duration_minutes":130,
+        "rating":4.4,
+        "views":200449
+    },
+    {
+        "movie_id":"M00034",
+        "title":"Movie 34",
+        "genre":"Documentary",
+        "release_year":2012,
+        "duration_minutes":126,
+        "rating":4.3,
+        "views":218916
+    },
+    {
+        "movie_id":"M00035",
+        "title":"Movie 35",
+        "genre":"Action",
+        "release_year":2018,
+        "duration_minutes":157,
+        "rating":4.8,
+        "views":283898
+    },
+    {
+        "movie_id":"M00036",
+        "title":"Movie 36",
+        "genre":"Drama",
+        "release_year":2022,
+        "duration_minutes":102,
+        "rating":4.0,
+        "views":179622
+    },
+    {
+        "movie_id":"M00037",
+        "title":"Movie 37",
+        "genre":"Sci-Fi",
+        "release_year":2000,
+        "duration_minutes":84,
+        "rating":3.1,
+        "views":370336
+    },
+    {
+        "movie_id":"M00038",
+        "title":"Movie 38",
+        "genre":"Romance",
+        "release_year":2010,
+        "duration_minutes":171,
+        "rating":3.5,
+        "views":301374
+    },
+    {
+        "movie_id":"M00039",
+        "title":"Movie 39",
+        "genre":"Comedy",
+        "release_year":2019,
+        "duration_minutes":168,
+        "rating":4.0,
+        "views":321846
+    },
+    {
+        "movie_id":"M00040",
+        "title":"Movie 40",
+        "genre":"Comedy",
+        "release_year":2005,
+        "duration_minutes":125,
+        "rating":4.1,
+        "views":57476
+    },
+    {
+        "movie_id":"M00041",
+        "title":"Movie 41",
+        "genre":"Sci-Fi",
+        "release_year":2011,
+        "duration_minutes":114,
+        "rating":3.3,
+        "views":400944
+    },
+    {
+        "movie_id":"M00042",
+        "title":"Movie 42",
+        "genre":"Animation",
+        "release_year":1996,
+        "duration_minutes":149,
+        "rating":2.6,
+        "views":39070
+    },
+    {
+        "movie_id":"M00043",
+        "title":"Movie 43",
+        "genre":"Documentary",
+        "release_year":1997,
+        "duration_minutes":113,
+        "rating":3.1,
+        "views":402476
+    },
+    {
+        "movie_id":"M00044",
+        "title":"Movie 44",
+        "genre":"Sci-Fi",
+        "release_year":2008,
+        "duration_minutes":90,
+        "rating":2.6,
+        "views":199957
+    },
+    {
+        "movie_id":"M00045",
+        "title":"Movie 45",
+        "genre":"Sci-Fi",
+        "release_year":1998,
+        "duration_minutes":163,
+        "rating":3.2,
+        "views":63835
+    },
+    {
+        "movie_id":"M00046",
+        "title":"Movie 46",
+        "genre":"Thriller",
+        "release_year":2004,
+        "duration_minutes":171,
+        "rating":3.9,
+        "views":61144
+    },
+    {
+        "movie_id":"M00047",
+        "title":"Movie 47",
+        "genre":"Animation",
+        "release_year":2022,
+        "duration_minutes":110,
+        "rating":3.2,
+        "views":145874
+    },
+    {
+        "movie_id":"M00048",
+        "title":"Movie 48",
+        "genre":"Animation",
+        "release_year":2015,
+        "duration_minutes":106,
+        "rating":4.6,
+        "views":463165
+    },
+    {
+        "movie_id":"M00049",
+        "title":"Movie 49",
+        "genre":"Action",
+        "release_year":2010,
+        "duration_minutes":144,
+        "rating":4.9,
+        "views":488328
+    },
+    {
+        "movie_id":"M00050",
+        "title":"Movie 50",
+        "genre":"Documentary",
+        "release_year":1995,
+        "duration_minutes":143,
+        "rating":4.1,
+        "views":11254
+    },
+    {
+        "movie_id":"M00051",
+        "title":"Movie 51",
+        "genre":"Animation",
+        "release_year":2015,
+        "duration_minutes":151,
+        "rating":2.8,
+        "views":246173
+    },
+    {
+        "movie_id":"M00052",
+        "title":"Movie 52",
+        "genre":"Drama",
+        "release_year":2008,
+        "duration_minutes":82,
+        "rating":3.4,
+        "views":208539
+    },
+    {
+        "movie_id":"M00053",
+        "title":"Movie 53",
+        "genre":"Documentary",
+        "release_year":2012,
+        "duration_minutes":141,
+        "rating":4.3,
+        "views":277545
+    },
+    {
+        "movie_id":"M00054",
+        "title":"Movie 54",
+        "genre":"Animation",
+        "release_year":2010,
+        "duration_minutes":113,
+        "rating":4.3,
+        "views":113443
+    },
+    {
+        "movie_id":"M00055",
+        "title":"Movie 55",
+        "genre":"Romance",
+        "release_year":1990,
+        "duration_minutes":85,
+        "rating":2.6,
+        "views":389285
+    },
+    {
+        "movie_id":"M00056",
+        "title":"Movie 56",
+        "genre":"Comedy",
+        "release_year":2023,
+        "duration_minutes":164,
+        "rating":3.2,
+        "views":495641
+    },
+    {
+        "movie_id":"M00057",
+        "title":"Movie 57",
+        "genre":"Fantasy",
+        "release_year":2016,
+        "duration_minutes":106,
+        "rating":4.4,
+        "views":405810
+    },
+    {
+        "movie_id":"M00058",
+        "title":"Movie 58",
+        "genre":"Sci-Fi",
+        "release_year":1991,
+        "duration_minutes":138,
+        "rating":3.7,
+        "views":93111
+    },
+    {
+        "movie_id":"M00059",
+        "title":"Movie 59",
+        "genre":"Drama",
+        "release_year":2003,
+        "duration_minutes":126,
+        "rating":3.8,
+        "views":136718
+    },
+    {
+        "movie_id":"M00060",
+        "title":"Movie 60",
+        "genre":"Horror",
+        "release_year":2001,
+        "duration_minutes":166,
+        "rating":3.9,
+        "views":131269
+    },
+    {
+        "movie_id":"M00061",
+        "title":"Movie 61",
+        "genre":"Horror",
+        "release_year":1998,
+        "duration_minutes":97,
+        "rating":4.4,
+        "views":327211
+    },
+    {
+        "movie_id":"M00062",
+        "title":"Movie 62",
+        "genre":"Documentary",
+        "release_year":1993,
+        "duration_minutes":146,
+        "rating":3.5,
+        "views":188966
+    },
+    {
+        "movie_id":"M00063",
+        "title":"Movie 63",
+        "genre":"Thriller",
+        "release_year":2010,
+        "duration_minutes":160,
+        "rating":5.0,
+        "views":49143
+    },
+    {
+        "movie_id":"M00064",
+        "title":"Movie 64",
+        "genre":"Animation",
+        "release_year":2023,
+        "duration_minutes":150,
+        "rating":4.1,
+        "views":42566
+    },
+    {
+        "movie_id":"M00065",
+        "title":"Movie 65",
+        "genre":"Animation",
+        "release_year":2009,
+        "duration_minutes":147,
+        "rating":4.5,
+        "views":260105
+    },
+    {
+        "movie_id":"M00066",
+        "title":"Movie 66",
+        "genre":"Horror",
+        "release_year":2012,
+        "duration_minutes":124,
+        "rating":4.5,
+        "views":452368
+    },
+    {
+        "movie_id":"M00067",
+        "title":"Movie 67",
+        "genre":"Documentary",
+        "release_year":2007,
+        "duration_minutes":128,
+        "rating":3.6,
+        "views":24576
+    },
+    {
+        "movie_id":"M00068",
+        "title":"Movie 68",
+        "genre":"Horror",
+        "release_year":1997,
+        "duration_minutes":109,
+        "rating":3.9,
+        "views":42725
+    },
+    {
+        "movie_id":"M00069",
+        "title":"Movie 69",
+        "genre":"Horror",
+        "release_year":2002,
+        "duration_minutes":170,
+        "rating":3.5,
+        "views":427693
+    },
+    {
+        "movie_id":"M00070",
+        "title":"Movie 70",
+        "genre":"Romance",
+        "release_year":2003,
+        "duration_minutes":144,
+        "rating":3.2,
+        "views":14184
+    },
+    {
+        "movie_id":"M00071",
+        "title":"Movie 71",
+        "genre":"Comedy",
+        "release_year":2016,
+        "duration_minutes":141,
+        "rating":4.7,
+        "views":145671
+    },
+    {
+        "movie_id":"M00072",
+        "title":"Movie 72",
+        "genre":"Sci-Fi",
+        "release_year":2009,
+        "duration_minutes":108,
+        "rating":2.7,
+        "views":334531
+    },
+    {
+        "movie_id":"M00073",
+        "title":"Movie 73",
+        "genre":"Comedy",
+        "release_year":1997,
+        "duration_minutes":160,
+        "rating":4.7,
+        "views":185097
+    },
+    {
+        "movie_id":"M00074",
+        "title":"Movie 74",
+        "genre":"Romance",
+        "release_year":2025,
+        "duration_minutes":85,
+        "rating":3.1,
+        "views":80310
+    },
+    {
+        "movie_id":"M00075",
+        "title":"Movie 75",
+        "genre":"Romance",
+        "release_year":2006,
+        "duration_minutes":130,
+        "rating":2.7,
+        "views":216871
+    },
+    {
+        "movie_id":"M00076",
+        "title":"Movie 76",
+        "genre":"Comedy",
+        "release_year":1998,
+        "duration_minutes":171,
+        "rating":2.9,
+        "views":446415
+    },
+    {
+        "movie_id":"M00077",
+        "title":"Movie 77",
+        "genre":"Thriller",
+        "release_year":2019,
+        "duration_minutes":146,
+        "rating":4.0,
+        "views":386827
+    },
+    {
+        "movie_id":"M00078",
+        "title":"Movie 78",
+        "genre":"Sci-Fi",
+        "release_year":2000,
+        "duration_minutes":121,
+        "rating":4.3,
+        "views":222259
+    },
+    {
+        "movie_id":"M00079",
+        "title":"Movie 79",
+        "genre":"Thriller",
+        "release_year":2005,
+        "duration_minutes":129,
+        "rating":3.1,
+        "views":454599
+    },
+    {
+        "movie_id":"M00080",
+        "title":"Movie 80",
+        "genre":"Horror",
+        "release_year":2014,
+        "duration_minutes":93,
+        "rating":3.8,
+        "views":462931
+    },
+    {
+        "movie_id":"M00081",
+        "title":"Movie 81",
+        "genre":"Horror",
+        "release_year":2002,
+        "duration_minutes":91,
+        "rating":4.7,
+        "views":305015
+    },
+    {
+        "movie_id":"M00082",
+        "title":"Movie 82",
+        "genre":"Comedy",
+        "release_year":2023,
+        "duration_minutes":84,
+        "rating":4.8,
+        "views":219313
+    },
+    {
+        "movie_id":"M00083",
+        "title":"Movie 83",
+        "genre":"Action",
+        "release_year":2015,
+        "duration_minutes":152,
+        "rating":2.9,
+        "views":478794
+    },
+    {
+        "movie_id":"M00084",
+        "title":"Movie 84",
+        "genre":"Sci-Fi",
+        "release_year":1991,
+        "duration_minutes":132,
+        "rating":4.2,
+        "views":265898
+    },
+    {
+        "movie_id":"M00085",
+        "title":"Movie 85",
+        "genre":"Horror",
+        "release_year":1992,
+        "duration_minutes":173,
+        "rating":2.7,
+        "views":413701
+    },
+    {
+        "movie_id":"M00086",
+        "title":"Movie 86",
+        "genre":"Comedy",
+        "release_year":2020,
+        "duration_minutes":111,
+        "rating":4.7,
+        "views":463997
+    },
+    {
+        "movie_id":"M00087",
+        "title":"Movie 87",
+        "genre":"Documentary",
+        "release_year":2016,
+        "duration_minutes":102,
+        "rating":4.8,
+        "views":436061
+    },
+    {
+        "movie_id":"M00088",
+        "title":"Movie 88",
+        "genre":"Comedy",
+        "release_year":2004,
+        "duration_minutes":160,
+        "rating":4.4,
+        "views":469791
+    },
+    {
+        "movie_id":"M00089",
+        "title":"Movie 89",
+        "genre":"Drama",
+        "release_year":2013,
+        "duration_minutes":126,
+        "rating":3.3,
+        "views":371286
+    },
+    {
+        "movie_id":"M00090",
+        "title":"Movie 90",
+        "genre":"Horror",
+        "release_year":2000,
+        "duration_minutes":127,
+        "rating":4.6,
+        "views":192742
+    },
+    {
+        "movie_id":"M00091",
+        "title":"Movie 91",
+        "genre":"Horror",
+        "release_year":2015,
+        "duration_minutes":164,
+        "rating":3.3,
+        "views":262831
+    },
+    {
+        "movie_id":"M00092",
+        "title":"Movie 92",
+        "genre":"Animation",
+        "release_year":1999,
+        "duration_minutes":88,
+        "rating":4.2,
+        "views":434128
+    },
+    {
+        "movie_id":"M00093",
+        "title":"Movie 93",
+        "genre":"Documentary",
+        "release_year":1997,
+        "duration_minutes":172,
+        "rating":4.7,
+        "views":18368
+    },
+    {
+        "movie_id":"M00094",
+        "title":"Movie 94",
+        "genre":"Romance",
+        "release_year":2000,
+        "duration_minutes":123,
+        "rating":5.0,
+        "views":178759
+    },
+    {
+        "movie_id":"M00095",
+        "title":"Movie 95",
+        "genre":"Romance",
+        "release_year":2016,
+        "duration_minutes":149,
+        "rating":3.2,
+        "views":249611
+    },
+    {
+        "movie_id":"M00096",
+        "title":"Movie 96",
+        "genre":"Animation",
+        "release_year":2015,
+        "duration_minutes":178,
+        "rating":3.7,
+        "views":365021
+    },
+    {
+        "movie_id":"M00097",
+        "title":"Movie 97",
+        "genre":"Sci-Fi",
+        "release_year":2020,
+        "duration_minutes":175,
+        "rating":4.2,
+        "views":389299
+    },
+    {
+        "movie_id":"M00098",
+        "title":"Movie 98",
+        "genre":"Thriller",
+        "release_year":2017,
+        "duration_minutes":117,
+        "rating":3.2,
+        "views":174966
+    },
+    {
+        "movie_id":"M00099",
+        "title":"Movie 99",
+        "genre":"Action",
+        "release_year":1996,
+        "duration_minutes":153,
+        "rating":3.5,
+        "views":313709
+    },
+    {
+        "movie_id":"M00100",
+        "title":"Movie 100",
+        "genre":"Animation",
+        "release_year":2002,
+        "duration_minutes":134,
+        "rating":3.5,
+        "views":473331
+    },
+    {
+        "movie_id":"M00101",
+        "title":"Movie 101",
+        "genre":"Horror",
+        "release_year":2013,
+        "duration_minutes":118,
+        "rating":4.6,
+        "views":161875
+    },
+    {
+        "movie_id":"M00102",
+        "title":"Movie 102",
+        "genre":"Drama",
+        "release_year":2014,
+        "duration_minutes":102,
+        "rating":4.7,
+        "views":246032
+    },
+    {
+        "movie_id":"M00103",
+        "title":"Movie 103",
+        "genre":"Sci-Fi",
+        "release_year":2008,
+        "duration_minutes":111,
+        "rating":3.6,
+        "views":262032
+    },
+    {
+        "movie_id":"M00104",
+        "title":"Movie 104",
+        "genre":"Thriller",
+        "release_year":2002,
+        "duration_minutes":95,
+        "rating":4.0,
+        "views":468267
+    },
+    {
+        "movie_id":"M00105",
+        "title":"Movie 105",
+        "genre":"Comedy",
+        "release_year":2006,
+        "duration_minutes":171,
+        "rating":3.0,
+        "views":124010
+    },
+    {
+        "movie_id":"M00106",
+        "title":"Movie 106",
+        "genre":"Action",
+        "release_year":2016,
+        "duration_minutes":173,
+        "rating":4.5,
+        "views":160344
+    },
+    {
+        "movie_id":"M00107",
+        "title":"Movie 107",
+        "genre":"Documentary",
+        "release_year":2020,
+        "duration_minutes":96,
+        "rating":4.4,
+        "views":226469
+    },
+    {
+        "movie_id":"M00108",
+        "title":"Movie 108",
+        "genre":"Animation",
+        "release_year":1991,
+        "duration_minutes":174,
+        "rating":4.4,
+        "views":266194
+    },
+    {
+        "movie_id":"M00109",
+        "title":"Movie 109",
+        "genre":"Documentary",
+        "release_year":2003,
+        "duration_minutes":137,
+        "rating":2.5,
+        "views":269270
+    },
+    {
+        "movie_id":"M00110",
+        "title":"Movie 110",
+        "genre":"Action",
+        "release_year":2007,
+        "duration_minutes":166,
+        "rating":4.4,
+        "views":370073
+    },
+    {
+        "movie_id":"M00111",
+        "title":"Movie 111",
+        "genre":"Action",
+        "release_year":2001,
+        "duration_minutes":101,
+        "rating":2.7,
+        "views":320564
+    },
+    {
+        "movie_id":"M00112",
+        "title":"Movie 112",
+        "genre":"Sci-Fi",
+        "release_year":1993,
+        "duration_minutes":138,
+        "rating":4.2,
+        "views":490800
+    },
+    {
+        "movie_id":"M00113",
+        "title":"Movie 113",
+        "genre":"Animation",
+        "release_year":2015,
+        "duration_minutes":170,
+        "rating":4.2,
+        "views":168759
+    },
+    {
+        "movie_id":"M00114",
+        "title":"Movie 114",
+        "genre":"Animation",
+        "release_year":1998,
+        "duration_minutes":141,
+        "rating":3.1,
+        "views":134547
+    },
+    {
+        "movie_id":"M00115",
+        "title":"Movie 115",
+        "genre":"Documentary",
+        "release_year":2011,
+        "duration_minutes":118,
+        "rating":2.8,
+        "views":176983
+    },
+    {
+        "movie_id":"M00116",
+        "title":"Movie 116",
+        "genre":"Thriller",
+        "release_year":2012,
+        "duration_minutes":113,
+        "rating":4.0,
+        "views":424949
+    },
+    {
+        "movie_id":"M00117",
+        "title":"Movie 117",
+        "genre":"Drama",
+        "release_year":1993,
+        "duration_minutes":159,
+        "rating":4.3,
+        "views":334265
+    },
+    {
+        "movie_id":"M00118",
+        "title":"Movie 118",
+        "genre":"Fantasy",
+        "release_year":2014,
+        "duration_minutes":114,
+        "rating":4.4,
+        "views":430603
+    },
+    {
+        "movie_id":"M00119",
+        "title":"Movie 119",
+        "genre":"Fantasy",
+        "release_year":2021,
+        "duration_minutes":94,
+        "rating":4.7,
+        "views":218709
+    },
+    {
+        "movie_id":"M00120",
+        "title":"Movie 120",
+        "genre":"Thriller",
+        "release_year":2017,
+        "duration_minutes":107,
+        "rating":3.8,
+        "views":142837
+    },
+    {
+        "movie_id":"M00121",
+        "title":"Movie 121",
+        "genre":"Thriller",
+        "release_year":1992,
+        "duration_minutes":176,
+        "rating":4.2,
+        "views":7279
+    },
+    {
+        "movie_id":"M00122",
+        "title":"Movie 122",
+        "genre":"Sci-Fi",
+        "release_year":1996,
+        "duration_minutes":172,
+        "rating":3.6,
+        "views":85858
+    },
+    {
+        "movie_id":"M00123",
+        "title":"Movie 123",
+        "genre":"Comedy",
+        "release_year":2015,
+        "duration_minutes":114,
+        "rating":3.9,
+        "views":222604
+    },
+    {
+        "movie_id":"M00124",
+        "title":"Movie 124",
+        "genre":"Thriller",
+        "release_year":2009,
+        "duration_minutes":156,
+        "rating":2.6,
+        "views":411347
+    },
+    {
+        "movie_id":"M00125",
+        "title":"Movie 125",
+        "genre":"Action",
+        "release_year":1991,
+        "duration_minutes":153,
+        "rating":4.2,
+        "views":108367
+    },
+    {
+        "movie_id":"M00126",
+        "title":"Movie 126",
+        "genre":"Fantasy",
+        "release_year":2003,
+        "duration_minutes":134,
+        "rating":4.3,
+        "views":230612
+    },
+    {
+        "movie_id":"M00127",
+        "title":"Movie 127",
+        "genre":"Horror",
+        "release_year":1998,
+        "duration_minutes":122,
+        "rating":3.3,
+        "views":133380
+    },
+    {
+        "movie_id":"M00128",
+        "title":"Movie 128",
+        "genre":"Comedy",
+        "release_year":2005,
+        "duration_minutes":154,
+        "rating":4.6,
+        "views":378722
+    },
+    {
+        "movie_id":"M00129",
+        "title":"Movie 129",
+        "genre":"Action",
+        "release_year":2024,
+        "duration_minutes":86,
+        "rating":4.8,
+        "views":436128
+    },
+    {
+        "movie_id":"M00130",
+        "title":"Movie 130",
+        "genre":"Thriller",
+        "release_year":2022,
+        "duration_minutes":118,
+        "rating":4.3,
+        "views":27232
+    },
+    {
+        "movie_id":"M00131",
+        "title":"Movie 131",
+        "genre":"Romance",
+        "release_year":1998,
+        "duration_minutes":133,
+        "rating":3.5,
+        "views":247561
+    },
+    {
+        "movie_id":"M00132",
+        "title":"Movie 132",
+        "genre":"Action",
+        "release_year":2016,
+        "duration_minutes":123,
+        "rating":2.7,
+        "views":410258
+    },
+    {
+        "movie_id":"M00133",
+        "title":"Movie 133",
+        "genre":"Fantasy",
+        "release_year":2009,
+        "duration_minutes":104,
+        "rating":3.3,
+        "views":414466
+    },
+    {
+        "movie_id":"M00134",
+        "title":"Movie 134",
+        "genre":"Animation",
+        "release_year":2020,
+        "duration_minutes":129,
+        "rating":2.6,
+        "views":273113
+    },
+    {
+        "movie_id":"M00135",
+        "title":"Movie 135",
+        "genre":"Fantasy",
+        "release_year":2001,
+        "duration_minutes":171,
+        "rating":4.4,
+        "views":383586
+    },
+    {
+        "movie_id":"M00136",
+        "title":"Movie 136",
+        "genre":"Animation",
+        "release_year":2002,
+        "duration_minutes":115,
+        "rating":2.7,
+        "views":177992
+    },
+    {
+        "movie_id":"M00137",
+        "title":"Movie 137",
+        "genre":"Sci-Fi",
+        "release_year":2022,
+        "duration_minutes":180,
+        "rating":4.5,
+        "views":353336
+    },
+    {
+        "movie_id":"M00138",
+        "title":"Movie 138",
+        "genre":"Horror",
+        "release_year":2000,
+        "duration_minutes":93,
+        "rating":2.6,
+        "views":445557
+    },
+    {
+        "movie_id":"M00139",
+        "title":"Movie 139",
+        "genre":"Drama",
+        "release_year":1990,
+        "duration_minutes":176,
+        "rating":3.0,
+        "views":69066
+    },
+    {
+        "movie_id":"M00140",
+        "title":"Movie 140",
+        "genre":"Drama",
+        "release_year":1992,
+        "duration_minutes":178,
+        "rating":3.8,
+        "views":458244
+    },
+    {
+        "movie_id":"M00141",
+        "title":"Movie 141",
+        "genre":"Fantasy",
+        "release_year":2024,
+        "duration_minutes":143,
+        "rating":3.3,
+        "views":351414
+    },
+    {
+        "movie_id":"M00142",
+        "title":"Movie 142",
+        "genre":"Romance",
+        "release_year":2021,
+        "duration_minutes":115,
+        "rating":4.4,
+        "views":151226
+    },
+    {
+        "movie_id":"M00143",
+        "title":"Movie 143",
+        "genre":"Documentary",
+        "release_year":1995,
+        "duration_minutes":105,
+        "rating":2.7,
+        "views":497082
+    },
+    {
+        "movie_id":"M00144",
+        "title":"Movie 144",
+        "genre":"Comedy",
+        "release_year":2002,
+        "duration_minutes":109,
+        "rating":3.8,
+        "views":108634
+    },
+    {
+        "movie_id":"M00145",
+        "title":"Movie 145",
+        "genre":"Comedy",
+        "release_year":2021,
+        "duration_minutes":140,
+        "rating":4.3,
+        "views":415714
+    },
+    {
+        "movie_id":"M00146",
+        "title":"Movie 146",
+        "genre":"Animation",
+        "release_year":2023,
+        "duration_minutes":117,
+        "rating":3.7,
+        "views":151767
+    },
+    {
+        "movie_id":"M00147",
+        "title":"Movie 147",
+        "genre":"Animation",
+        "release_year":2023,
+        "duration_minutes":89,
+        "rating":4.9,
+        "views":332591
+    },
+    {
+        "movie_id":"M00148",
+        "title":"Movie 148",
+        "genre":"Animation",
+        "release_year":2020,
+        "duration_minutes":97,
+        "rating":2.7,
+        "views":40948
+    },
+    {
+        "movie_id":"M00149",
+        "title":"Movie 149",
+        "genre":"Drama",
+        "release_year":2001,
+        "duration_minutes":87,
+        "rating":3.0,
+        "views":403864
+    },
+    {
+        "movie_id":"M00150",
+        "title":"Movie 150",
+        "genre":"Sci-Fi",
+        "release_year":2014,
+        "duration_minutes":137,
+        "rating":3.9,
+        "views":453046
+    },
+    {
+        "movie_id":"M00151",
+        "title":"Movie 151",
+        "genre":"Drama",
+        "release_year":2007,
+        "duration_minutes":104,
+        "rating":3.8,
+        "views":310288
+    },
+    {
+        "movie_id":"M00152",
+        "title":"Movie 152",
+        "genre":"Drama",
+        "release_year":2025,
+        "duration_minutes":176,
+        "rating":3.1,
+        "views":408654
+    },
+    {
+        "movie_id":"M00153",
+        "title":"Movie 153",
+        "genre":"Romance",
+        "release_year":2007,
+        "duration_minutes":120,
+        "rating":4.6,
+        "views":456921
+    },
+    {
+        "movie_id":"M00154",
+        "title":"Movie 154",
+        "genre":"Drama",
+        "release_year":2013,
+        "duration_minutes":168,
+        "rating":4.5,
+        "views":79781
+    },
+    {
+        "movie_id":"M00155",
+        "title":"Movie 155",
+        "genre":"Thriller",
+        "release_year":2009,
+        "duration_minutes":127,
+        "rating":4.3,
+        "views":443168
+    },
+    {
+        "movie_id":"M00156",
+        "title":"Movie 156",
+        "genre":"Comedy",
+        "release_year":2007,
+        "duration_minutes":171,
+        "rating":4.5,
+        "views":84494
+    },
+    {
+        "movie_id":"M00157",
+        "title":"Movie 157",
+        "genre":"Fantasy",
+        "release_year":2005,
+        "duration_minutes":130,
+        "rating":3.8,
+        "views":225632
+    },
+    {
+        "movie_id":"M00158",
+        "title":"Movie 158",
+        "genre":"Fantasy",
+        "release_year":1993,
+        "duration_minutes":142,
+        "rating":3.8,
+        "views":209314
+    },
+    {
+        "movie_id":"M00159",
+        "title":"Movie 159",
+        "genre":"Animation",
+        "release_year":2005,
+        "duration_minutes":166,
+        "rating":4.8,
+        "views":201295
+    },
+    {
+        "movie_id":"M00160",
+        "title":"Movie 160",
+        "genre":"Thriller",
+        "release_year":2015,
+        "duration_minutes":123,
+        "rating":3.1,
+        "views":420052
+    },
+    {
+        "movie_id":"M00161",
+        "title":"Movie 161",
+        "genre":"Documentary",
+        "release_year":2021,
+        "duration_minutes":158,
+        "rating":3.6,
+        "views":379042
+    },
+    {
+        "movie_id":"M00162",
+        "title":"Movie 162",
+        "genre":"Sci-Fi",
+        "release_year":2019,
+        "duration_minutes":102,
+        "rating":2.9,
+        "views":323453
+    },
+    {
+        "movie_id":"M00163",
+        "title":"Movie 163",
+        "genre":"Animation",
+        "release_year":2004,
+        "duration_minutes":141,
+        "rating":3.6,
+        "views":464222
+    },
+    {
+        "movie_id":"M00164",
+        "title":"Movie 164",
+        "genre":"Documentary",
+        "release_year":1995,
+        "duration_minutes":120,
+        "rating":3.2,
+        "views":54894
+    },
+    {
+        "movie_id":"M00165",
+        "title":"Movie 165",
+        "genre":"Documentary",
+        "release_year":2004,
+        "duration_minutes":146,
+        "rating":3.3,
+        "views":62715
+    },
+    {
+        "movie_id":"M00166",
+        "title":"Movie 166",
+        "genre":"Animation",
+        "release_year":1994,
+        "duration_minutes":131,
+        "rating":2.9,
+        "views":48714
+    },
+    {
+        "movie_id":"M00167",
+        "title":"Movie 167",
+        "genre":"Sci-Fi",
+        "release_year":2004,
+        "duration_minutes":96,
+        "rating":3.6,
+        "views":280474
+    },
+    {
+        "movie_id":"M00168",
+        "title":"Movie 168",
+        "genre":"Romance",
+        "release_year":2008,
+        "duration_minutes":116,
+        "rating":4.3,
+        "views":458346
+    },
+    {
+        "movie_id":"M00169",
+        "title":"Movie 169",
+        "genre":"Fantasy",
+        "release_year":1992,
+        "duration_minutes":129,
+        "rating":3.9,
+        "views":51088
+    },
+    {
+        "movie_id":"M00170",
+        "title":"Movie 170",
+        "genre":"Thriller",
+        "release_year":2013,
+        "duration_minutes":87,
+        "rating":3.1,
+        "views":355722
+    },
+    {
+        "movie_id":"M00171",
+        "title":"Movie 171",
+        "genre":"Horror",
+        "release_year":2001,
+        "duration_minutes":100,
+        "rating":4.5,
+        "views":240575
+    },
+    {
+        "movie_id":"M00172",
+        "title":"Movie 172",
+        "genre":"Drama",
+        "release_year":2010,
+        "duration_minutes":128,
+        "rating":4.9,
+        "views":51760
+    },
+    {
+        "movie_id":"M00173",
+        "title":"Movie 173",
+        "genre":"Thriller",
+        "release_year":2017,
+        "duration_minutes":171,
+        "rating":2.7,
+        "views":170120
+    },
+    {
+        "movie_id":"M00174",
+        "title":"Movie 174",
+        "genre":"Fantasy",
+        "release_year":2003,
+        "duration_minutes":112,
+        "rating":4.5,
+        "views":275000
+    },
+    {
+        "movie_id":"M00175",
+        "title":"Movie 175",
+        "genre":"Sci-Fi",
+        "release_year":2013,
+        "duration_minutes":95,
+        "rating":4.3,
+        "views":495387
+    },
+    {
+        "movie_id":"M00176",
+        "title":"Movie 176",
+        "genre":"Romance",
+        "release_year":1995,
+        "duration_minutes":122,
+        "rating":3.9,
+        "views":256486
+    },
+    {
+        "movie_id":"M00177",
+        "title":"Movie 177",
+        "genre":"Sci-Fi",
+        "release_year":2025,
+        "duration_minutes":84,
+        "rating":3.0,
+        "views":409559
+    },
+    {
+        "movie_id":"M00178",
+        "title":"Movie 178",
+        "genre":"Animation",
+        "release_year":2005,
+        "duration_minutes":148,
+        "rating":3.5,
+        "views":28545
+    },
+    {
+        "movie_id":"M00179",
+        "title":"Movie 179",
+        "genre":"Romance",
+        "release_year":2024,
+        "duration_minutes":83,
+        "rating":3.6,
+        "views":37623
+    },
+    {
+        "movie_id":"M00180",
+        "title":"Movie 180",
+        "genre":"Fantasy",
+        "release_year":2022,
+        "duration_minutes":125,
+        "rating":2.9,
+        "views":169243
+    },
+    {
+        "movie_id":"M00181",
+        "title":"Movie 181",
+        "genre":"Drama",
+        "release_year":2012,
+        "duration_minutes":178,
+        "rating":4.8,
+        "views":126262
+    },
+    {
+        "movie_id":"M00182",
+        "title":"Movie 182",
+        "genre":"Thriller",
+        "release_year":2012,
+        "duration_minutes":96,
+        "rating":3.8,
+        "views":404182
+    },
+    {
+        "movie_id":"M00183",
+        "title":"Movie 183",
+        "genre":"Animation",
+        "release_year":2010,
+        "duration_minutes":123,
+        "rating":3.0,
+        "views":280691
+    },
+    {
+        "movie_id":"M00184",
+        "title":"Movie 184",
+        "genre":"Drama",
+        "release_year":2006,
+        "duration_minutes":84,
+        "rating":4.8,
+        "views":476683
+    },
+    {
+        "movie_id":"M00185",
+        "title":"Movie 185",
+        "genre":"Animation",
+        "release_year":2001,
+        "duration_minutes":124,
+        "rating":2.6,
+        "views":120029
+    },
+    {
+        "movie_id":"M00186",
+        "title":"Movie 186",
+        "genre":"Comedy",
+        "release_year":2021,
+        "duration_minutes":119,
+        "rating":3.1,
+        "views":427175
+    },
+    {
+        "movie_id":"M00187",
+        "title":"Movie 187",
+        "genre":"Thriller",
+        "release_year":1994,
+        "duration_minutes":91,
+        "rating":4.1,
+        "views":348302
+    },
+    {
+        "movie_id":"M00188",
+        "title":"Movie 188",
+        "genre":"Fantasy",
+        "release_year":2018,
+        "duration_minutes":121,
+        "rating":3.2,
+        "views":138772
+    },
+    {
+        "movie_id":"M00189",
+        "title":"Movie 189",
+        "genre":"Documentary",
+        "release_year":2008,
+        "duration_minutes":144,
+        "rating":4.2,
+        "views":64219
+    },
+    {
+        "movie_id":"M00190",
+        "title":"Movie 190",
+        "genre":"Animation",
+        "release_year":2004,
+        "duration_minutes":165,
+        "rating":4.3,
+        "views":255794
+    },
+    {
+        "movie_id":"M00191",
+        "title":"Movie 191",
+        "genre":"Drama",
+        "release_year":2003,
+        "duration_minutes":179,
+        "rating":3.5,
+        "views":479872
+    },
+    {
+        "movie_id":"M00192",
+        "title":"Movie 192",
+        "genre":"Sci-Fi",
+        "release_year":2011,
+        "duration_minutes":87,
+        "rating":3.4,
+        "views":426096
+    },
+    {
+        "movie_id":"M00193",
+        "title":"Movie 193",
+        "genre":"Sci-Fi",
+        "release_year":2013,
+        "duration_minutes":119,
+        "rating":4.4,
+        "views":427214
+    },
+    {
+        "movie_id":"M00194",
+        "title":"Movie 194",
+        "genre":"Drama",
+        "release_year":2023,
+        "duration_minutes":111,
+        "rating":3.5,
+        "views":241404
+    },
+    {
+        "movie_id":"M00195",
+        "title":"Movie 195",
+        "genre":"Documentary",
+        "release_year":2018,
+        "duration_minutes":106,
+        "rating":4.2,
+        "views":312535
+    },
+    {
+        "movie_id":"M00196",
+        "title":"Movie 196",
+        "genre":"Comedy",
+        "release_year":1998,
+        "duration_minutes":99,
+        "rating":3.8,
+        "views":18501
+    },
+    {
+        "movie_id":"M00197",
+        "title":"Movie 197",
+        "genre":"Documentary",
+        "release_year":2008,
+        "duration_minutes":88,
+        "rating":4.1,
+        "views":345859
+    },
+    {
+        "movie_id":"M00198",
+        "title":"Movie 198",
+        "genre":"Sci-Fi",
+        "release_year":1994,
+        "duration_minutes":92,
+        "rating":4.0,
+        "views":307150
+    },
+    {
+        "movie_id":"M00199",
+        "title":"Movie 199",
+        "genre":"Drama",
+        "release_year":2013,
+        "duration_minutes":117,
+        "rating":4.2,
+        "views":34838
+    },
+    {
+        "movie_id":"M00200",
+        "title":"Movie 200",
+        "genre":"Action",
+        "release_year":2002,
+        "duration_minutes":163,
+        "rating":3.5,
+        "views":427323
+    },
+    {
+        "movie_id":"M00201",
+        "title":"Movie 201",
+        "genre":"Horror",
+        "release_year":2008,
+        "duration_minutes":119,
+        "rating":4.8,
+        "views":308560
+    },
+    {
+        "movie_id":"M00202",
+        "title":"Movie 202",
+        "genre":"Thriller",
+        "release_year":2012,
+        "duration_minutes":130,
+        "rating":4.1,
+        "views":412407
+    },
+    {
+        "movie_id":"M00203",
+        "title":"Movie 203",
+        "genre":"Documentary",
+        "release_year":2015,
+        "duration_minutes":85,
+        "rating":4.8,
+        "views":402624
+    },
+    {
+        "movie_id":"M00204",
+        "title":"Movie 204",
+        "genre":"Animation",
+        "release_year":1993,
+        "duration_minutes":81,
+        "rating":5.0,
+        "views":102216
+    },
+    {
+        "movie_id":"M00205",
+        "title":"Movie 205",
+        "genre":"Thriller",
+        "release_year":1994,
+        "duration_minutes":145,
+        "rating":2.7,
+        "views":469940
+    },
+    {
+        "movie_id":"M00206",
+        "title":"Movie 206",
+        "genre":"Romance",
+        "release_year":2005,
+        "duration_minutes":127,
+        "rating":4.4,
+        "views":444244
+    },
+    {
+        "movie_id":"M00207",
+        "title":"Movie 207",
+        "genre":"Sci-Fi",
+        "release_year":2006,
+        "duration_minutes":156,
+        "rating":3.1,
+        "views":217097
+    },
+    {
+        "movie_id":"M00208",
+        "title":"Movie 208",
+        "genre":"Action",
+        "release_year":2011,
+        "duration_minutes":134,
+        "rating":3.3,
+        "views":402976
+    },
+    {
+        "movie_id":"M00209",
+        "title":"Movie 209",
+        "genre":"Horror",
+        "release_year":2013,
+        "duration_minutes":142,
+        "rating":3.1,
+        "views":226808
+    },
+    {
+        "movie_id":"M00210",
+        "title":"Movie 210",
+        "genre":"Documentary",
+        "release_year":1994,
+        "duration_minutes":96,
+        "rating":4.1,
+        "views":119409
+    },
+    {
+        "movie_id":"M00211",
+        "title":"Movie 211",
+        "genre":"Comedy",
+        "release_year":2019,
+        "duration_minutes":163,
+        "rating":3.8,
+        "views":220088
+    },
+    {
+        "movie_id":"M00212",
+        "title":"Movie 212",
+        "genre":"Fantasy",
+        "release_year":1991,
+        "duration_minutes":155,
+        "rating":4.3,
+        "views":316393
+    },
+    {
+        "movie_id":"M00213",
+        "title":"Movie 213",
+        "genre":"Animation",
+        "release_year":2001,
+        "duration_minutes":154,
+        "rating":4.5,
+        "views":355295
+    },
+    {
+        "movie_id":"M00214",
+        "title":"Movie 214",
+        "genre":"Animation",
+        "release_year":1999,
+        "duration_minutes":140,
+        "rating":3.8,
+        "views":468282
+    },
+    {
+        "movie_id":"M00215",
+        "title":"Movie 215",
+        "genre":"Drama",
+        "release_year":2015,
+        "duration_minutes":112,
+        "rating":3.1,
+        "views":474734
+    },
+    {
+        "movie_id":"M00216",
+        "title":"Movie 216",
+        "genre":"Documentary",
+        "release_year":1997,
+        "duration_minutes":89,
+        "rating":3.0,
+        "views":179681
+    },
+    {
+        "movie_id":"M00217",
+        "title":"Movie 217",
+        "genre":"Action",
+        "release_year":2020,
+        "duration_minutes":167,
+        "rating":4.9,
+        "views":60667
+    },
+    {
+        "movie_id":"M00218",
+        "title":"Movie 218",
+        "genre":"Documentary",
+        "release_year":2021,
+        "duration_minutes":151,
+        "rating":4.7,
+        "views":383347
+    },
+    {
+        "movie_id":"M00219",
+        "title":"Movie 219",
+        "genre":"Thriller",
+        "release_year":2013,
+        "duration_minutes":82,
+        "rating":2.5,
+        "views":467581
+    },
+    {
+        "movie_id":"M00220",
+        "title":"Movie 220",
+        "genre":"Documentary",
+        "release_year":2023,
+        "duration_minutes":125,
+        "rating":4.8,
+        "views":208570
+    },
+    {
+        "movie_id":"M00221",
+        "title":"Movie 221",
+        "genre":"Animation",
+        "release_year":2011,
+        "duration_minutes":88,
+        "rating":4.6,
+        "views":112067
+    },
+    {
+        "movie_id":"M00222",
+        "title":"Movie 222",
+        "genre":"Thriller",
+        "release_year":1991,
+        "duration_minutes":123,
+        "rating":4.5,
+        "views":185798
+    },
+    {
+        "movie_id":"M00223",
+        "title":"Movie 223",
+        "genre":"Action",
+        "release_year":2015,
+        "duration_minutes":113,
+        "rating":2.7,
+        "views":398013
+    },
+    {
+        "movie_id":"M00224",
+        "title":"Movie 224",
+        "genre":"Romance",
+        "release_year":2008,
+        "duration_minutes":154,
+        "rating":3.0,
+        "views":259642
+    },
+    {
+        "movie_id":"M00225",
+        "title":"Movie 225",
+        "genre":"Action",
+        "release_year":2020,
+        "duration_minutes":163,
+        "rating":3.4,
+        "views":82986
+    },
+    {
+        "movie_id":"M00226",
+        "title":"Movie 226",
+        "genre":"Fantasy",
+        "release_year":2014,
+        "duration_minutes":101,
+        "rating":2.6,
+        "views":51342
+    },
+    {
+        "movie_id":"M00227",
+        "title":"Movie 227",
+        "genre":"Documentary",
+        "release_year":1995,
+        "duration_minutes":128,
+        "rating":3.8,
+        "views":55378
+    },
+    {
+        "movie_id":"M00228",
+        "title":"Movie 228",
+        "genre":"Romance",
+        "release_year":2015,
+        "duration_minutes":112,
+        "rating":4.2,
+        "views":201186
+    },
+    {
+        "movie_id":"M00229",
+        "title":"Movie 229",
+        "genre":"Animation",
+        "release_year":2012,
+        "duration_minutes":122,
+        "rating":2.9,
+        "views":391110
+    },
+    {
+        "movie_id":"M00230",
+        "title":"Movie 230",
+        "genre":"Horror",
+        "release_year":2018,
+        "duration_minutes":84,
+        "rating":3.6,
+        "views":159211
+    },
+    {
+        "movie_id":"M00231",
+        "title":"Movie 231",
+        "genre":"Documentary",
+        "release_year":1993,
+        "duration_minutes":165,
+        "rating":4.6,
+        "views":233225
+    },
+    {
+        "movie_id":"M00232",
+        "title":"Movie 232",
+        "genre":"Documentary",
+        "release_year":1991,
+        "duration_minutes":172,
+        "rating":4.1,
+        "views":96585
+    },
+    {
+        "movie_id":"M00233",
+        "title":"Movie 233",
+        "genre":"Documentary",
+        "release_year":2003,
+        "duration_minutes":152,
+        "rating":4.7,
+        "views":384489
+    },
+    {
+        "movie_id":"M00234",
+        "title":"Movie 234",
+        "genre":"Action",
+        "release_year":2004,
+        "duration_minutes":89,
+        "rating":4.3,
+        "views":44952
+    },
+    {
+        "movie_id":"M00235",
+        "title":"Movie 235",
+        "genre":"Drama",
+        "release_year":2005,
+        "duration_minutes":107,
+        "rating":4.5,
+        "views":97471
+    },
+    {
+        "movie_id":"M00236",
+        "title":"Movie 236",
+        "genre":"Action",
+        "release_year":1992,
+        "duration_minutes":128,
+        "rating":4.2,
+        "views":151395
+    },
+    {
+        "movie_id":"M00237",
+        "title":"Movie 237",
+        "genre":"Animation",
+        "release_year":2011,
+        "duration_minutes":169,
+        "rating":4.7,
+        "views":427652
+    },
+    {
+        "movie_id":"M00238",
+        "title":"Movie 238",
+        "genre":"Animation",
+        "release_year":2017,
+        "duration_minutes":146,
+        "rating":4.4,
+        "views":312045
+    },
+    {
+        "movie_id":"M00239",
+        "title":"Movie 239",
+        "genre":"Drama",
+        "release_year":2011,
+        "duration_minutes":143,
+        "rating":3.0,
+        "views":129133
+    },
+    {
+        "movie_id":"M00240",
+        "title":"Movie 240",
+        "genre":"Action",
+        "release_year":2013,
+        "duration_minutes":151,
+        "rating":3.8,
+        "views":180630
+    },
+    {
+        "movie_id":"M00241",
+        "title":"Movie 241",
+        "genre":"Action",
+        "release_year":1998,
+        "duration_minutes":151,
+        "rating":3.7,
+        "views":294737
+    },
+    {
+        "movie_id":"M00242",
+        "title":"Movie 242",
+        "genre":"Horror",
+        "release_year":1993,
+        "duration_minutes":170,
+        "rating":4.6,
+        "views":284541
+    },
+    {
+        "movie_id":"M00243",
+        "title":"Movie 243",
+        "genre":"Romance",
+        "release_year":2007,
+        "duration_minutes":147,
+        "rating":4.6,
+        "views":488353
+    },
+    {
+        "movie_id":"M00244",
+        "title":"Movie 244",
+        "genre":"Sci-Fi",
+        "release_year":2007,
+        "duration_minutes":99,
+        "rating":3.9,
+        "views":105760
+    },
+    {
+        "movie_id":"M00245",
+        "title":"Movie 245",
+        "genre":"Horror",
+        "release_year":1994,
+        "duration_minutes":149,
+        "rating":4.4,
+        "views":111586
+    },
+    {
+        "movie_id":"M00246",
+        "title":"Movie 246",
+        "genre":"Sci-Fi",
+        "release_year":1992,
+        "duration_minutes":142,
+        "rating":2.7,
+        "views":123813
+    },
+    {
+        "movie_id":"M00247",
+        "title":"Movie 247",
+        "genre":"Comedy",
+        "release_year":2001,
+        "duration_minutes":101,
+        "rating":2.6,
+        "views":10919
+    },
+    {
+        "movie_id":"M00248",
+        "title":"Movie 248",
+        "genre":"Action",
+        "release_year":2017,
+        "duration_minutes":144,
+        "rating":3.6,
+        "views":104088
+    },
+    {
+        "movie_id":"M00249",
+        "title":"Movie 249",
+        "genre":"Animation",
+        "release_year":2018,
+        "duration_minutes":138,
+        "rating":2.9,
+        "views":303985
+    },
+    {
+        "movie_id":"M00250",
+        "title":"Movie 250",
+        "genre":"Drama",
+        "release_year":2017,
+        "duration_minutes":175,
+        "rating":3.0,
+        "views":89033
+    },
+    {
+        "movie_id":"M00251",
+        "title":"Movie 251",
+        "genre":"Comedy",
+        "release_year":2014,
+        "duration_minutes":142,
+        "rating":2.9,
+        "views":402077
+    },
+    {
+        "movie_id":"M00252",
+        "title":"Movie 252",
+        "genre":"Horror",
+        "release_year":1996,
+        "duration_minutes":142,
+        "rating":4.9,
+        "views":145520
+    },
+    {
+        "movie_id":"M00253",
+        "title":"Movie 253",
+        "genre":"Fantasy",
+        "release_year":1991,
+        "duration_minutes":121,
+        "rating":3.5,
+        "views":13989
+    },
+    {
+        "movie_id":"M00254",
+        "title":"Movie 254",
+        "genre":"Fantasy",
+        "release_year":2000,
+        "duration_minutes":136,
+        "rating":3.4,
+        "views":272419
+    },
+    {
+        "movie_id":"M00255",
+        "title":"Movie 255",
+        "genre":"Comedy",
+        "release_year":2009,
+        "duration_minutes":101,
+        "rating":4.7,
+        "views":316047
+    },
+    {
+        "movie_id":"M00256",
+        "title":"Movie 256",
+        "genre":"Romance",
+        "release_year":2010,
+        "duration_minutes":112,
+        "rating":3.9,
+        "views":260331
+    },
+    {
+        "movie_id":"M00257",
+        "title":"Movie 257",
+        "genre":"Thriller",
+        "release_year":2005,
+        "duration_minutes":177,
+        "rating":2.8,
+        "views":474024
+    },
+    {
+        "movie_id":"M00258",
+        "title":"Movie 258",
+        "genre":"Drama",
+        "release_year":2013,
+        "duration_minutes":106,
+        "rating":4.4,
+        "views":331185
+    },
+    {
+        "movie_id":"M00259",
+        "title":"Movie 259",
+        "genre":"Fantasy",
+        "release_year":1994,
+        "duration_minutes":164,
+        "rating":3.4,
+        "views":181863
+    },
+    {
+        "movie_id":"M00260",
+        "title":"Movie 260",
+        "genre":"Comedy",
+        "release_year":1997,
+        "duration_minutes":171,
+        "rating":4.6,
+        "views":311765
+    },
+    {
+        "movie_id":"M00261",
+        "title":"Movie 261",
+        "genre":"Sci-Fi",
+        "release_year":1997,
+        "duration_minutes":180,
+        "rating":3.4,
+        "views":323055
+    },
+    {
+        "movie_id":"M00262",
+        "title":"Movie 262",
+        "genre":"Fantasy",
+        "release_year":2010,
+        "duration_minutes":83,
+        "rating":4.3,
+        "views":1385
+    },
+    {
+        "movie_id":"M00263",
+        "title":"Movie 263",
+        "genre":"Action",
+        "release_year":2017,
+        "duration_minutes":162,
+        "rating":3.4,
+        "views":379612
+    },
+    {
+        "movie_id":"M00264",
+        "title":"Movie 264",
+        "genre":"Sci-Fi",
+        "release_year":1998,
+        "duration_minutes":169,
+        "rating":2.8,
+        "views":172625
+    },
+    {
+        "movie_id":"M00265",
+        "title":"Movie 265",
+        "genre":"Drama",
+        "release_year":1998,
+        "duration_minutes":119,
+        "rating":3.4,
+        "views":158015
+    },
+    {
+        "movie_id":"M00266",
+        "title":"Movie 266",
+        "genre":"Sci-Fi",
+        "release_year":2024,
+        "duration_minutes":107,
+        "rating":4.5,
+        "views":46911
+    },
+    {
+        "movie_id":"M00267",
+        "title":"Movie 267",
+        "genre":"Romance",
+        "release_year":2012,
+        "duration_minutes":152,
+        "rating":4.8,
+        "views":60241
+    },
+    {
+        "movie_id":"M00268",
+        "title":"Movie 268",
+        "genre":"Comedy",
+        "release_year":2024,
+        "duration_minutes":105,
+        "rating":4.7,
+        "views":211738
+    },
+    {
+        "movie_id":"M00269",
+        "title":"Movie 269",
+        "genre":"Romance",
+        "release_year":2011,
+        "duration_minutes":165,
+        "rating":2.6,
+        "views":36337
+    },
+    {
+        "movie_id":"M00270",
+        "title":"Movie 270",
+        "genre":"Horror",
+        "release_year":2005,
+        "duration_minutes":112,
+        "rating":4.9,
+        "views":227947
+    },
+    {
+        "movie_id":"M00271",
+        "title":"Movie 271",
+        "genre":"Fantasy",
+        "release_year":2002,
+        "duration_minutes":91,
+        "rating":4.8,
+        "views":384079
+    },
+    {
+        "movie_id":"M00272",
+        "title":"Movie 272",
+        "genre":"Romance",
+        "release_year":1999,
+        "duration_minutes":97,
+        "rating":4.8,
+        "views":364618
+    },
+    {
+        "movie_id":"M00273",
+        "title":"Movie 273",
+        "genre":"Action",
+        "release_year":1992,
+        "duration_minutes":178,
+        "rating":4.6,
+        "views":215700
+    },
+    {
+        "movie_id":"M00274",
+        "title":"Movie 274",
+        "genre":"Documentary",
+        "release_year":2012,
+        "duration_minutes":168,
+        "rating":3.8,
+        "views":493537
+    },
+    {
+        "movie_id":"M00275",
+        "title":"Movie 275",
+        "genre":"Action",
+        "release_year":2015,
+        "duration_minutes":109,
+        "rating":3.1,
+        "views":467224
+    },
+    {
+        "movie_id":"M00276",
+        "title":"Movie 276",
+        "genre":"Romance",
+        "release_year":2002,
+        "duration_minutes":167,
+        "rating":2.9,
+        "views":37625
+    },
+    {
+        "movie_id":"M00277",
+        "title":"Movie 277",
+        "genre":"Drama",
+        "release_year":2007,
+        "duration_minutes":147,
+        "rating":3.3,
+        "views":120036
+    },
+    {
+        "movie_id":"M00278",
+        "title":"Movie 278",
+        "genre":"Comedy",
+        "release_year":2004,
+        "duration_minutes":137,
+        "rating":3.8,
+        "views":211948
+    },
+    {
+        "movie_id":"M00279",
+        "title":"Movie 279",
+        "genre":"Sci-Fi",
+        "release_year":2024,
+        "duration_minutes":82,
+        "rating":3.3,
+        "views":158188
+    },
+    {
+        "movie_id":"M00280",
+        "title":"Movie 280",
+        "genre":"Fantasy",
+        "release_year":2009,
+        "duration_minutes":163,
+        "rating":5.0,
+        "views":282442
+    },
+    {
+        "movie_id":"M00281",
+        "title":"Movie 281",
+        "genre":"Horror",
+        "release_year":1997,
+        "duration_minutes":91,
+        "rating":3.2,
+        "views":208759
+    },
+    {
+        "movie_id":"M00282",
+        "title":"Movie 282",
+        "genre":"Horror",
+        "release_year":2002,
+        "duration_minutes":169,
+        "rating":4.4,
+        "views":308221
+    },
+    {
+        "movie_id":"M00283",
+        "title":"Movie 283",
+        "genre":"Action",
+        "release_year":2009,
+        "duration_minutes":102,
+        "rating":4.1,
+        "views":42476
+    },
+    {
+        "movie_id":"M00284",
+        "title":"Movie 284",
+        "genre":"Fantasy",
+        "release_year":2013,
+        "duration_minutes":122,
+        "rating":4.4,
+        "views":222359
+    },
+    {
+        "movie_id":"M00285",
+        "title":"Movie 285",
+        "genre":"Documentary",
+        "release_year":2022,
+        "duration_minutes":107,
+        "rating":3.8,
+        "views":400493
+    },
+    {
+        "movie_id":"M00286",
+        "title":"Movie 286",
+        "genre":"Horror",
+        "release_year":1994,
+        "duration_minutes":159,
+        "rating":4.6,
+        "views":478435
+    },
+    {
+        "movie_id":"M00287",
+        "title":"Movie 287",
+        "genre":"Thriller",
+        "release_year":2009,
+        "duration_minutes":133,
+        "rating":3.9,
+        "views":155756
+    },
+    {
+        "movie_id":"M00288",
+        "title":"Movie 288",
+        "genre":"Fantasy",
+        "release_year":2000,
+        "duration_minutes":116,
+        "rating":4.0,
+        "views":286493
+    },
+    {
+        "movie_id":"M00289",
+        "title":"Movie 289",
+        "genre":"Comedy",
+        "release_year":1992,
+        "duration_minutes":164,
+        "rating":4.2,
+        "views":194267
+    },
+    {
+        "movie_id":"M00290",
+        "title":"Movie 290",
+        "genre":"Action",
+        "release_year":2015,
+        "duration_minutes":150,
+        "rating":3.2,
+        "views":137410
+    },
+    {
+        "movie_id":"M00291",
+        "title":"Movie 291",
+        "genre":"Documentary",
+        "release_year":2019,
+        "duration_minutes":118,
+        "rating":4.8,
+        "views":304573
+    },
+    {
+        "movie_id":"M00292",
+        "title":"Movie 292",
+        "genre":"Romance",
+        "release_year":2001,
+        "duration_minutes":169,
+        "rating":2.9,
+        "views":313309
+    },
+    {
+        "movie_id":"M00293",
+        "title":"Movie 293",
+        "genre":"Thriller",
+        "release_year":2021,
+        "duration_minutes":110,
+        "rating":5.0,
+        "views":17994
+    },
+    {
+        "movie_id":"M00294",
+        "title":"Movie 294",
+        "genre":"Sci-Fi",
+        "release_year":2017,
+        "duration_minutes":97,
+        "rating":4.4,
+        "views":371800
+    },
+    {
+        "movie_id":"M00295",
+        "title":"Movie 295",
+        "genre":"Drama",
+        "release_year":1997,
+        "duration_minutes":87,
+        "rating":4.0,
+        "views":246806
+    },
+    {
+        "movie_id":"M00296",
+        "title":"Movie 296",
+        "genre":"Animation",
+        "release_year":2007,
+        "duration_minutes":144,
+        "rating":2.5,
+        "views":493728
+    },
+    {
+        "movie_id":"M00297",
+        "title":"Movie 297",
+        "genre":"Thriller",
+        "release_year":1996,
+        "duration_minutes":91,
+        "rating":4.4,
+        "views":235526
+    },
+    {
+        "movie_id":"M00298",
+        "title":"Movie 298",
+        "genre":"Sci-Fi",
+        "release_year":2003,
+        "duration_minutes":156,
+        "rating":2.6,
+        "views":423505
+    },
+    {
+        "movie_id":"M00299",
+        "title":"Movie 299",
+        "genre":"Documentary",
+        "release_year":1999,
+        "duration_minutes":149,
+        "rating":4.8,
+        "views":326791
+    },
+    {
+        "movie_id":"M00300",
+        "title":"Movie 300",
+        "genre":"Thriller",
+        "release_year":2023,
+        "duration_minutes":129,
+        "rating":3.7,
+        "views":70538
+    }
+]
